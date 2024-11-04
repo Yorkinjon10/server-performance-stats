@@ -1,4 +1,5 @@
 while true; do
+    echo "Hi"
     ./server-stats.sh
-    sleep 5  # Waits 5 seconds before running again
+    sleep 5
 done
